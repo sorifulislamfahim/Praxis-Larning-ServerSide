@@ -1,26 +1,32 @@
 [
     {
       "id": "01",
-      "name": "Spoken English"
+      "name": "Spoken English",
+      "image": "https://yt3.ggpht.com/3VPqB8Eui3Wlhh5WLdyOz2bRheLchQKMDMF9nScaaBwiJMLWf8Ajd5mKlnWT79CNzy2eqNzbP6k=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "id": "02",
-      "name": "Basic Computer"
+      "name": "Basic Computer",
+      "image": "https://www.emotions.ae/wp-content/uploads/2019/05/computer-basics-course.jpg"
     },
     {
       "id": "03",
-      "name": "Web Development"
+      "name": "Web Development",
+      "image": "https://www.onlinecoursereport.com/wp-content/uploads/2020/07/shutterstock_394793860-1024x784.jpg"
     },
     {
       "id": "04",
-      "name": "Grafix Design"
+      "name": "Grafix Design",
+      "image": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg"
     },
     {
       "id": "05",
-      "name": "Reding Test"
+      "name": "Reding Test",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOK1c8_rAOg4hBiMw7JOnPViEuNeDKeCldA&usqp=CAU"
     },
     {
       "id": "06",
-      "name": "BCS Preparation"
+      "name": "BCS Preparation",
+      "image": "https://www.shiksharalo.net/wp-content/uploads/2020/03/bcs-ptrparation.jpg"
     }
   ]
