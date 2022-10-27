@@ -18,14 +18,18 @@ app.get('/', (req, res) => {
 
   app.get('/courses/:id', (req, res) => {
     const id = req.params.id;
-    const coursesNews = courseNews.filter( courses => courses.category_id = id)
-    res.send(courseNews);
+    const coursesNews = courseNews.filter( courses => courses.category_id === id)
+    res.send(coursesNews);
   })
 
   app.get('/course/:id', (req, res) => {
     const id = req.params.id;
-    const selectedCourse = courseNews.find( course => course._id = id)
+    const selectedCourse = courseNews.find( course => course._id === id)
     res.send(selectedCourse);
+  })
+
+  app.get('/home', (req, res) => {
+    res.send(courseNews)
   })
 
 
